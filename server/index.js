@@ -13,7 +13,7 @@ app.use(express.json());
 
 const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
-app.get("products", async (req, res) => {
+app.get("/products", async (req, res) => {
     const { search } = req.query;
 
     await delay(500);

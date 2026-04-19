@@ -5,7 +5,7 @@ const products = [
         title: "Смарт-часы X100",
         price: 7490,
         category: "Гаджеты",
-        image: "https://via.placeholder.com/300x200?text=Watch",
+        image: "https://placehold.co/300x200/png?text=Product",
         description: "Водонепроницаемые, GPS, 7-дневный аккумулятор",
     },
     {
@@ -13,7 +13,7 @@ const products = [
         title: "Наушники AirSound Pro",
         price: 5990,
         category: "Аудио",
-        image: "https://via.placeholder.com/300x200?text=Headphones",
+        image: "https://placehold.co/300x200/png?text=Headphones",
         description: "Шумоподавление, до 20 часов работы",
     },
     {
@@ -21,7 +21,7 @@ const products = [
         title: "Смартфон Z10",
         price: 25990,
         category: "Телефоны",
-        image: "https://via.placeholder.com/300x200?text=Phone",
+        image: "https://placehold.co/300x200/png?text=Phone",
         description: "6.5 дюймов, OLED, 128GB",
     },
     {
@@ -29,7 +29,7 @@ const products = [
         title: "Ноутбук UltraBook X",
         price: 79990,
         category: "Компьютеры",
-        image: "https://via.placeholder.com/300x200?text=Laptop",
+        image: "https://placehold.co/300x200/png?text=Laptop",
         description: "Лёгкий, мощный, 16GB RAM",
     },
     {
@@ -37,7 +37,7 @@ const products = [
         title: "Планшет Tab Mini",
         price: 15990,
         category: "Гаджеты",
-        image: "https://via.placeholder.com/300x200?text=Tablet",
+        image: "https://placehold.co/300x200/png?text=Tablet",
         description: "Компактный, 8 дюймов, идеален для чтения",
     },
     {
@@ -45,7 +45,7 @@ const products = [
         title: "Игровая мышь Storm X",
         price: 3490,
         category: "Компьютеры",
-        image: "https://via.placeholder.com/300x200?text=Mouse",
+        image: "https://placehold.co/300x200/png?text=Mouse",
         description: "RGB подсветка, 16000 DPI",
     },
     {
@@ -53,7 +53,7 @@ const products = [
         title: "Механическая клавиатура KeyPro",
         price: 8990,
         category: "Компьютеры",
-        image: "https://via.placeholder.com/300x200?text=Keyboard",
+        image: "https://placehold.co/300x200/png?text=Keyboard",
         description: "Blue switch, подсветка, алюминиевый корпус",
     },
     {
@@ -61,7 +61,7 @@ const products = [
         title: "Беспроводная колонка Boom Mini",
         price: 4290,
         category: "Аудио",
-        image: "https://via.placeholder.com/300x200?text=Speaker",
+        image: "https://placehold.co/300x200/png?text=Speaker",
         description: "Громкий звук, до 12 часов работы",
     },
     {
@@ -69,7 +69,7 @@ const products = [
         title: 'Телевизор SmartView 50"',
         price: 45990,
         category: "ТВ",
-        image: "https://via.placeholder.com/300x200?text=TV",
+        image: "https://placehold.co/300x200/png?text=TV",
         description: "4K UHD, Smart TV, HDR",
     },
     {
@@ -77,7 +77,7 @@ const products = [
         title: "Фитнес-браслет FitBand 3",
         price: 2990,
         category: "Гаджеты",
-        image: "https://via.placeholder.com/300x200?text=Fitness",
+        image: "https://placehold.co/300x200/png?text=Fitness",
         description: "Шагомер, пульсометр, уведомления",
     },
     {
@@ -85,7 +85,7 @@ const products = [
         title: "Внешний SSD 1TB FastDrive",
         price: 10990,
         category: "Компьютеры",
-        image: "https://via.placeholder.com/300x200?text=SSD",
+        image: "https://placehold.co/300x200/png?text=SSD",
         description: "Высокая скорость, USB-C",
     },
     {
@@ -93,7 +93,7 @@ const products = [
         title: 'Монитор 27" UltraDisplay',
         price: 18990,
         category: "Компьютеры",
-        image: "https://via.placeholder.com/300x200?text=Monitor",
+        image: "https://placehold.co/300x200/png?text=Monitor",
         description: "IPS, 144Hz, Full HD",
     },
     {
@@ -101,7 +101,7 @@ const products = [
         title: "Игровая консоль GameBox",
         price: 39990,
         category: "Игры",
-        image: "https://via.placeholder.com/300x200?text=Console",
+        image: "https://placehold.co/300x200/png?text=Console",
         description: "4K, HDR, 1TB память",
     },
     {
@@ -109,7 +109,7 @@ const products = [
         title: "VR-очки Vision Pro",
         price: 29990,
         category: "Гаджеты",
-        image: "https://via.placeholder.com/300x200?text=VR",
+        image: "https://placehold.co/300x200/png?text=VR",
         description: "Погружение в виртуальную реальность",
     },
     {
@@ -117,7 +117,7 @@ const products = [
         title: "Роутер WiFi 6 TurboNet",
         price: 6990,
         category: "Сеть",
-        image: "https://via.placeholder.com/300x200?text=Router",
+        image: "https://placehold.co/300x200/png?text=Router",
         description: "Высокая скорость, стабильное соединение",
     },
     {
@@ -125,7 +125,7 @@ const products = [
         title: "Веб-камера HD StreamCam",
         price: 3990,
         category: "Компьютеры",
-        image: "https://via.placeholder.com/300x200?text=Camera",
+        image: "https://placehold.co/300x200/png?text=Camera",
         description: "Full HD, автофокус",
     },
     {
@@ -133,7 +133,7 @@ const products = [
         title: "Геймпад Pro Controller",
         price: 5490,
         category: "Игры",
-        image: "https://via.placeholder.com/300x200?text=Gamepad",
+        image: "https://placehold.co/300x200/png?text=Gamepad",
         description: "Беспроводной, виброотдача",
     },
     {
@@ -141,7 +141,7 @@ const products = [
         title: "Электронная книга ReadBook",
         price: 9990,
         category: "Гаджеты",
-        image: "https://via.placeholder.com/300x200?text=Ebook",
+        image: "https://placehold.co/300x200/png?text=Ebook",
         description: "E-Ink экран, подсветка",
     },
     {
@@ -149,7 +149,7 @@ const products = [
         title: "PowerBank 20000mAh",
         price: 2490,
         category: "Аксессуары",
-        image: "https://via.placeholder.com/300x200?text=PowerBank",
+        image: "https://placehold.co/300x200/png?text=PowerBank",
         description: "Быстрая зарядка, компактный",
     },
     {
@@ -157,7 +157,7 @@ const products = [
         title: "Умная лампа SmartLight",
         price: 1990,
         category: "Умный дом",
-        image: "https://via.placeholder.com/300x200?text=Light",
+        image: "https://placehold.co/300x200/png?text=Light",
         description: "Управление через приложение",
     },
 ];
